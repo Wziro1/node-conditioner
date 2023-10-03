@@ -1,0 +1,19 @@
+{
+  "name": "node-conditioner",
+  "version": "0.1.0",
+  "description": "This package make easy conditions for if statements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wziro1/node-conditioner.git"
+  },
+  "author": "Diaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wziro1/node-conditioner/issues"
+  },
+  "homepage": "https://github.com/Wziro1/node-conditioner#readme"
+}
